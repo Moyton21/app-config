@@ -1,6 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "register_endpoints": [
+    "https://freeway-vpn.duckdns.org:2087/register",
     "http://freeway-vpn.duckdns.org:8080/register",
     "http://91.99.66.136:8080/register"
   ],
